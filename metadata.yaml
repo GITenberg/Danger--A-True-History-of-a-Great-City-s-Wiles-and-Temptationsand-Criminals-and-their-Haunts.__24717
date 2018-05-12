@@ -1,0 +1,38 @@
+_repo: Danger--A-True-History-of-a-Great-City-s-Wiles-and-Temptationsand-Criminals-and-their-Haunts.__24717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hummel, Abraham H.
+    birthdate: 1849
+    deathdate: 1926
+    gutenberg_agent_id: '26695'
+    url: http://www.gutenberg.org/2009/agents/26695
+    wikipedia: http://en.wikipedia.org/wiki/Howe_and_Hummel
+  - agent_name: Howe, William F.
+    birthdate: 1828
+    deathdate: 1902
+    gutenberg_agent_id: '26694'
+    url: http://www.gutenberg.org/2009/agents/26694
+    wikipedia: http://en.wikipedia.org/wiki/Howe_and_Hummel
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Criminals -- New York (State) -- New York'
+- !lcsh 'New York (N.Y.) -- Social conditions'
+- !lcsh 'Crime -- New York (State) -- New York'
+title: "Danger! A True History of a Great City's Wiles and Temptations\r\nThe Veil\
+  \ Lifted, and Light Thrown on Crime and its Causes, and Criminals and their Haunts.\
+  \ Facts and Disclosures."
+url: http://www.gutenberg.org/ebooks/24717

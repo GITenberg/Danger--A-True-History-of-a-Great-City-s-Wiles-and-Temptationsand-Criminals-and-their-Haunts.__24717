@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26694
     wikipedia: http://en.wikipedia.org/wiki/Howe_and_Hummel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24717#Danger--A-True-History-of-a-Great-City-s-Wiles-and-Temptationsand-Criminals-and-their-Haunts._
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-02-29'
 gutenberg_type: Text
